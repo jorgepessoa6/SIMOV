@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "909732156314",
+    "project_id": "simov-project-7e287",
+    "storage_bucket": "simov-project-7e287.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909732156314:android:348c3cf9e74d03e0d7e023",
+        "android_client_info": {
+          "package_name": "com.simov.caregiver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909732156314-2arvjb708ne0ajaju2v50mupir8mfkg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ia8pudbhIW9btFlGVi6qrRz8RZw0DAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909732156314-2arvjb708ne0ajaju2v50mupir8mfkg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:909732156314:android:43299341ca48b2a0d7e023",
+        "android_client_info": {
+          "package_name": "com.simov.iseptreasurehunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "909732156314-2arvjb708ne0ajaju2v50mupir8mfkg1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD9ia8pudbhIW9btFlGVi6qrRz8RZw0DAs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "909732156314-2arvjb708ne0ajaju2v50mupir8mfkg1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

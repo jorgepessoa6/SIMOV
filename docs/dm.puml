@@ -1,0 +1,34 @@
+@startuml "Domain Model"
+
+object User {
+   email,
+   password,
+   points
+}
+
+object Event {
+    name,
+    date,
+    maxParticipants
+    timeToFinish
+}
+
+object Reward {
+    description
+}
+
+object Step {
+    description
+}
+
+object Type {
+    description
+}
+
+User "1..*" -> "1..*" Event : participates in 
+Event "1" --down> "1" Reward : has
+Event "1" -> "1..*" Step : has
+Event "1" -> "1" User : has winner
+Step "1" -> "1" Type : has
+
+@enduml

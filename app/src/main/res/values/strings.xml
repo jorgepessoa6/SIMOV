@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ISEP Treasure Hunt</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="LoadingText">Loading ...</string>
+    <string name="button_to_open_camera">button to open camera</string>
+    <string name="menu">Menu</string>
+    <string name="leaderboard">Leaderboard</string>
+    <string name="start_treasure_hunt">Start Treasure Hunt</string>
+    <string name="player_name">Player Name:</string>
+    <string name="points">Points</string>
+</resources>
